@@ -1,13 +1,15 @@
 import { Outlet } from "react-router-dom";
+import Navbar from "../components/shared/Navbar";
+import Footer from "../components/shared/Footer";
 
 const MainLayouts = () => {
     return (
         <div>
-            <header className="p-4 bg-base-200">Navbar ekhane boshbe</header>
+            <Navbar></Navbar>
             <main className="min-h-screen">
                 <Outlet></Outlet>
             </main>
-            <footer className="p-4 bg-base-200">Footer ekhane boshbe</footer>
+            <Footer></Footer>
         </div>
     );
 };

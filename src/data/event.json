@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "title": "Robot Chassis Design Workshop",
+        "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e",
+        "description": "Learn the basics of robot chassis design, material selection, and mechanical structure. Participants will explore how to build a stable and efficient robot body through practical examples.",
+        "status": "Upcoming",
+        "contactInfo": "Rahim Ahmed, rahim@roboticsclub.edu, +8801700000001",
+        "division": "Mechanical",
+        "date": "2026-11-15",
+        "venue": "Mechanical Engineering Lab"
+    },
+    {
+        "id": 2,
+        "title": "Mini Sumo Bot Build Camp",
+        "image": "https://images.unsplash.com/photo-1561144257-e32e8efc6b5a",
+        "description": "Explore the mechanical design and construction of mini sumo robots. Participants will learn about robot stability, chassis structure, and competition-ready design through team activities.",
+        "status": "Completed",
+        "contactInfo": "Nafis Hasan, nafis@roboticsclub.edu, +8801700000002",
+        "division": "Mechanical",
+        "date": "2026-09-20",
+        "venue": "Robotics Workshop"
+    },
+    {
+        "id": 3,
+        "title": "Python for Robotics Bootcamp",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+        "description": "Learn Python programming fundamentals and discover how code controls robotic systems. This bootcamp introduces basic algorithms, sensor data processing, and simple robotics applications.",
+        "status": "Ongoing",
+        "contactInfo": "Sadia Islam, sadia@roboticsclub.edu, +8801700000003",
+        "division": "Programming & AI",
+        "date": "2026-10-08",
+        "venue": "Computer Lab 2"
+    },
+    {
+        "id": 4,
+        "title": "Intro to Computer Vision Seminar",
+        "image": "https://images.unsplash.com/photo-1535378620166-273708d44e4c",
+        "description": "Discover how computers interpret images and videos for robotic applications. Learn about object detection, image processing, and the role of computer vision in autonomous robots.",
+        "status": "Upcoming",
+        "contactInfo": "Tanvir Hossain, tanvir@roboticsclub.edu, +8801700000004",
+        "division": "Programming & AI",
+        "date": "2026-11-22",
+        "venue": "University Seminar Hall"
+    },
+    {
+        "id": 5,
+        "title": "Line Follower Robot Workshop",
+        "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158",
+        "description": "Build a line-following robot using sensors, electronic components, and a microcontroller. Participants will learn sensor calibration, motor control, and basic embedded programming.",
+        "status": "Upcoming",
+        "contactInfo": "Mehedi Hasan, mehedi@roboticsclub.edu, +8801700000005",
+        "division": "Electronics & IoT",
+        "date": "2026-11-18",
+        "venue": "Electronics Lab"
+    },
+    {
+        "id": 6,
+        "title": "IoT Smart Home Project Showcase",
+        "image": "https://images.unsplash.com/photo-1558002038-1055907df827",
+        "description": "Explore smart home projects built with sensors, microcontrollers, and IoT technologies. Club members demonstrate how connected devices can improve home automation and energy management.",
+        "status": "Completed",
+        "contactInfo": "Fahim Rahman, fahim@roboticsclub.edu, +8801700000006",
+        "division": "Electronics & IoT",
+        "date": "2026-09-25",
+        "venue": "Innovation Lab"
+    },
+    {
+        "id": 7,
+        "title": "Robotics Photography and Video Day",
+        "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4",
+        "description": "Learn how to capture robotics projects, workshops, and competitions through photography and video. Participants will practice visual storytelling and create engaging content for the club.",
+        "status": "Upcoming",
+        "contactInfo": "Nusrat Jahan, nusrat@roboticsclub.edu, +8801700000007",
+        "division": "Media & Outreach",
+        "date": "2026-11-20",
+        "venue": "University Campus"
+    },
+    {
+        "id": 8,
+        "title": "School Robotics Awareness Program",
+        "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837",
+        "description": "Introduce school students to robotics, basic engineering, and creative problem-solving. Club volunteers will demonstrate simple robots and encourage young learners to explore technology.",
+        "status": "Ongoing",
+        "contactInfo": "Arif Hossain, arif@roboticsclub.edu, +8801700000008",
+        "division": "Media & Outreach",
+        "date": "2026-10-09",
+        "venue": "Partner School Campus"
+    }
+]

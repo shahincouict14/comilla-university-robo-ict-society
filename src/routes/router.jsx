@@ -5,6 +5,9 @@ import NotFoundPage from "../pages/NotFoundPage";
 import HowToJoin from "../pages/HowToJoin";
 import Dashboard from "../pages/Dashboard";
 import Events from "../pages/Events";
+import EventDetails from "../pages/EventDetails";
+import { eventDetailsLoader } from "../loader/eventDetailsLoader";
+import EventDetailsError from "../pages/EventDetailsError";
 
 const router = createBrowserRouter([
     {
@@ -18,6 +21,12 @@ const router = createBrowserRouter([
             {
                 path:"/events",
                 element:<Events></Events>
+            },
+            {
+                path:"/events/:id",
+                element:<EventDetails></EventDetails>,
+                loader:eventDetailsLoader,
+                errorElement:<EventDetailsError></EventDetailsError>
             },
             {
                 path: "/how-to-join",

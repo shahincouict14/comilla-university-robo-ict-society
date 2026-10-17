@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "title": "Robot Sumo Competition",
+        "event": "National Robotics Competition",
+        "year": "2026",
+        "image": "images/competitions/image1.jpg",
+        "alt": "Robot participating in a sumo competition"
+    },
+    {
+        "id": 2,
+        "title": "Line Follower Robot",
+        "event": "Robotics Challenge",
+        "year": "2026",
+        "image": "images/competitions/image2.jpg",
+        "alt": "Line follower robot on a competition track"
+    },
+    {
+        "id": 3,
+        "title": "Robotics Workshop",
+        "event": "Club Workshop",
+        "year": "2026",
+        "image": "images/competitions/image3.jpg",
+        "alt": "Students working on robotics projects"
+    },
+    {
+        "id": 4,
+        "title": "Project Showcase",
+        "event": "University Project Exhibition",
+        "year": "2026",
+        "image": "images/competitions/image4.jpg",
+        "alt": "Robotics project displayed at an exhibition"
+    },
+    {
+        "id": 5,
+        "title": "Project Showcase",
+        "event": "University Project Exhibition",
+        "year": "2026",
+        "image": "images/competitions/image5.jpg",
+        "alt": "Robotics project displayed at an exhibition"
+    },
+    {
+        "id": 6,
+        "title": "Project Showcase",
+        "event": "University Project Exhibition",
+        "year": "2026",
+        "image": "images/competitions/image6.jpg",
+        "alt": "Robotics project displayed at an exhibition"
+    },
+    {
+        "id": 7,
+        "title": "Project Showcase",
+        "event": "University Project Exhibition",
+        "year": "2026",
+        "image": "images/competitions/image7.jpg",
+        "alt": "Robotics project displayed at an exhibition"
+    },
+    {
+        "id": 8,
+        "title": "Project Showcase",
+        "event": "University Project Exhibition",
+        "year": "2026",
+        "image": "images/competitions/image8.jpg",
+        "alt": "Robotics project displayed at an exhibition"
+    },
+    {
+        "id": 9,
+        "title": "Project Showcase",
+        "event": "University Project Exhibition",
+        "year": "2026",
+        "image": "images/competitions/image9.jpg",
+        "alt": "Robotics project displayed at an exhibition"
+    },
+    {
+        "id": 10,
+        "title": "Project Showcase",
+        "event": "University Project Exhibition",
+        "year": "2026",
+        "image": "images/competitions/image10.jpg",
+        "alt": "Robotics project displayed at an exhibition"
+    },
+    {
+        "id": 11,
+        "title": "Project Showcase",
+        "event": "University Project Exhibition",
+        "year": "2026",
+        "image": "images/competitions/image11.jpg",
+        "alt": "Robotics project displayed at an exhibition"
+    },
+    {
+        "id": 12,
+        "title": "Project Showcase",
+        "event": "University Project Exhibition",
+        "year": "2026",
+        "image": "images/competitions/image12.jpg",
+        "alt": "Robotics project displayed at an exhibition"
+    },
+    {
+        "id": 13,
+        "title": "Project Showcase",
+        "event": "University Project Exhibition",
+        "year": "2026",
+        "image": "images/competitions/image13.jpg",
+        "alt": "Robotics project displayed at an exhibition"
+    },
+    {
+        "id": 14,
+        "title": "Project Showcase",
+        "event": "University Project Exhibition",
+        "year": "2026",
+        "image": "images/competitions/image14.jpg",
+        "alt": "Robotics project displayed at an exhibition"
+    }
+]
